@@ -1,0 +1,15 @@
+#  menu items
+[[main]]
+  name = "Guias"
+  weight = 2
+  url = "guias/"
+
+[[main]]
+  name = "Monday"
+  weight = 3
+  url = "https://sapienstj.monday.com"
+
+[[main]]
+  name = "Blog"
+  weight = 3
+  url = "https://sapienstj.netlify.app"

@@ -1,0 +1,20 @@
+[guias_menu]
+  other = "Menu"
+[no_matches]
+  other = "Nenhum resultado encontrado"
+[quick_links]
+  other = "Acesso rápido"
+[search_field_placeholder]
+  other = "Pesquisar em {{ .section }}"
+[search_results_label]
+  other = "Resultados"
+[short_search_query]
+  other = "Termo curto demais"
+[site]
+  other = "site"
+[site_menu]
+  other = "Site Menu"
+[to_top]
+  other = "Voltar ao topo"
+[type_to_search]
+  other = "Digite para pesquisar"

@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="{{ site.Language.Lang }}"{{ with site.Params.enableDarkMode }} class="dark"{{ end }}>
+<head>
+  {{- partial "head" . }}
+</head>
+<body class="page-{{ .Kind }}" id="pagetop">
+  <header class="nav_header">
+    {{- partial "nav" . }}
+  </header>
+  {{ if or (eq .Section site.Params.blogDir) (eq .Type "search" ) }}
+    {{- block "main" . }}{{ end }}
+  {{ else }}
+  <div class="main wrap pt-4">
+    {{ $guiasections := site.Params.guiasections }}
+    {{- with $guiasections }}{{- else }}
+      {{- $guiasections = "guias" }}
+    {{- end }}
+    {{ $uniqueHomepage := .IsHome }}
+    {{ if site.Params.uniqueHomepage }}
+      {{ if .IsHome }}
+        {{ $uniqueHomepage = true }}
+      {{ end }}
+    {{ else }}
+      {{ $uniqueHomepage = false }}
+    {{ end }}
+    {{- if and (in $guiasections .Section) (ne $uniqueHomepage true) }}
+      {{- partial "document" . }}
+    {{- else }}
+      <div class="content">
+        {{- block "main" . }}{{ end }}
+      </div>
+    {{- end -}}
+  </div>
+  {{ end }}
+  {{- partialCached "footer" . -}}
+  {{- partialCached "sprites" . -}}
+  {{- partialCached "scripts/bundle" . -}}
+  {{- partial "scripts/other" . -}}
+</body>
+</html>
