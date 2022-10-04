@@ -20,6 +20,8 @@ A nossa marca é conhecida por ser colorida, então você pode experimentar pint
 
 O famoso "S da Sapiens" é a principal marca da nossa agência, ele representa o jeito Sapiens de fazer as coisas, encaixando as peças do jeito mais não-ortodoxo o possível e mesmo assim chegando em um resultado.
 
+![Inline image example](../../../images/design/marca-sapiens-logo-green.svg)
+
 {{< tip >}}
 O S fica bom de vários jeitos então nós estamos sempre aberto à jeitos novos de aplicar o nosso selinho.
 {{< /tip >}}
@@ -28,9 +30,7 @@ O S fica bom de vários jeitos então nós estamos sempre aberto à jeitos novos
 
 Quando a ocasião pede, a Sapiens também tem a sua assinatura que é essa versão estilizada e geométrica da palavra Sapiens. Ela costuma ser usada para peças impressas mas você é o diretor, se você achar que cabe usar a assinatura, fique a vontade!
 
-{{< tip >}}
-O S fica bom de vários jeitos então nós estamos sempre aberto à jeitos novos de aplicar o nosso selinho.
-{{< /tip >}}
+![Inline image example](../../../images/design/marca-sapiens.svg)
 
 ## As cores
 >Lá fora, me disseram pra continuar. - DH da Banda Cine
