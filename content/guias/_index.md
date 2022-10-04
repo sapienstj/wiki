@@ -16,5 +16,5 @@ Caso você não tenha tempo pra isso, ficam aqui alguns atalhos:
 
 {{< button "./design/" "Design" "mb-1" >}}
 
-{{< button "./blog/primeiros-passos" "Blog" >}}
+{{< button "./blog/" "Blog" >}}
 
