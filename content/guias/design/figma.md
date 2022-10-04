@@ -28,4 +28,4 @@ Divirta-se!
 
 ### Salvando
 
-Essa é a melhor parte, você não salva! A menos que você configure ele pra isso, o seu Figma salva automaticamente na nuvem todos os seus projetos.
+Essa é a melhor parte, você não salva! A menos que você configure ele pra isso, o padrão do Figma é salvar automaticamente na nuvem todos os seus projetos.

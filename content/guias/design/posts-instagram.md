@@ -11,7 +11,7 @@ Então você já está familiarizado com a marca da Sapiens e finalmente está a
 Aqui na Sapiens nós damos preferência para desenvolver nossas peças de Instagram no [Figma](https://www.figma.com) mas nada te impede de usar algum outro programa enquanto vai se acostumando com o jeito Sapiens de fazer as coisas.
 
 {{< tip  >}}
-Se você quiser aprender a usar o Figma, você em breve poderá conferir um tutorial clicando [aqui]().
+Se você quiser aprender a usar o Figma, você em breve poderá conferir um tutorial clicando [aqui](../figma/#tutorial).
 {{< /tip >}}
 
 ### Tamanhos
