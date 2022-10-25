@@ -1,28 +1,34 @@
 +++
-title = "Fazendo um post"
+title = "Fazendo um estático"
 description = "Fazendo um post"
 weight = 3
 +++
 
-Então você já está familiarizado com a marca da Sapiens e finalmente está alocado em algum job do Instagram no [monday](https://sapienstj.monday.com). É hora de por a mão na massa!
+Então você já está familiarizado com a [nossa marca](../a-marca) e finalmente está alocado em algum post estático do Instagram no [monday](https://sapienstj.monday.com). É hora de por a mão na massa!
 
 ### Ferramentas
 
-Aqui na Sapiens nós damos preferência para desenvolver nossas peças de Instagram no [Figma](https://www.figma.com) mas nada te impede de usar algum outro programa enquanto vai se acostumando com o jeito Sapiens de fazer as coisas.
+Muito do que está escrito aqui pode ser aplicado à diversas ferramentas gráficas como o Photoshop, Illustrator ou Canva mas pra fins de coesão, vamos assumir que você está doido(a) pra usar o [Figma](https://www.figma.com), a principal plataforma que nós usamos pra fazer os posts aqui da Sapiens!
 
 {{< tip  >}}
-Se você quiser aprender a usar o Figma, você em breve poderá conferir um tutorial clicando [aqui](../figma/#tutorial).
+Se você quiser aprender o básico da interface do Figma, você pode clicar [aqui](../figma/#tutorial).
 {{< /tip >}}
 
-### Tamanhos
+### Frame
 
-Os posts no Instagram costumam ser feitos em dois tamanhos: `1080x1080` e `1080x1350`. O primeiro resulta em um post quadrado convencional e o segundo, naquele post mais alongado verticalmente.
+Como no Illustrator, o padrão do Figma é o trabalho em ___*Frames*__(ou quadros). Quando você inicia um novo projeto no Figma, o padrão é que ele venha vazio, sem quadros e sem nada. Pense nessa interface como uma mesa de trabalho super clean e arrumada, não por muito tempo.
 
-### Fundo
+Aperte a tecla **F** para selecionar a ferramenta de frames, depois clique e arrasta em qualquer lugar da área de tabalho do projeto para criar um frame de `1080x1080`.
+
+Se você não conseguir de primeira, você pode tentar segurar a tecla **shift** para garantir que o seu frame seja sempre ou quadrado **OU** depois de criar o seu frame, você pode clicar nele e definir suas dimensões de largura e altura(seu **W** e o seu **H**) para 1080.
+
+## Cor de Fundo
+
+Para definir a cor do seu frame, basta clicar nele e buscar pela opção **Fill** na barra lateral. Por padrão, todos os frames do Figma tem o fundo branco então troca logo pra uma cor bem bonita pro seu post.
 
 Atualmente, pros posts do nosso Instagram, nós estamos usando duas cores de fundo, o [gelo](../a-marca#as-cores) e o [não-tão-preto](../a-marca#as-cores) mas cada caso é um caso e talvez o seu caso peça um fundinho mais especial, a gente confia no seu bom senso estético!
 
-{{< tip  >}}
+{{< tip "warning"  >}}
 Atualmente a pegada da Sapiens é um tanto minimalista então lembre-se: menos é mais, principalmente no fundo.
 {{< /tip >}}
 
