@@ -1,10 +1,10 @@
 name = "Compose"
 license = "MIT"
 licenselink = "https://github.com/onweru/compose/blob/master/LICENSE"
-description = "A hugo theme for documentation sites. It's inspired by forestry.io's guias page"
-homepage = "https://guias.neuralvibes.com"
-tags = ["dark mode", "guias", "dark", "blog", "search", "documentation"]
-features = ["dark mode", "guias", "dark", "blog", "search", "documentation"]
+description = "A hugo theme for documentation sites. It's inspired by forestry.io's docs page"
+homepage = "https://docs.neuralvibes.com"
+tags = ["dark mode", "docs", "dark", "blog", "search", "documentation"]
+features = ["dark mode", "docs", "dark", "blog", "search", "documentation"]
 min_version = "0.76.0"
 
 [author]
